@@ -165,7 +165,7 @@ export abstract class Repository {
 	} // }}}
 
 	protected getEditorKeybindingsPath(userDataPath: string): string { // {{{
-		return path.join(userDataPath, 'keybindings.json');
+		return path.join(userDataPath, 'keymaps.json');
 	} // }}}
 
 	protected getEditorSnippetsPath(userDataPath: string): string { // {{{

@@ -2,12 +2,12 @@
 	"name": "sync-settings",
 	"displayName": "Sync Settings",
 	"description": "Easily synchronize your settings",
-	"version": "0.16.1",
+	"version": "0.16.1-theia-wknaka",
 	"author": {
 		"name": "Baptiste Augrain",
 		"email": "daiyam@zokugun.org"
 	},
-	"publisher": "zokugun",
+	"publisher": "wknaka",
 	"license": "MIT",
 	"homepage": "https://github.com/zokugun/vscode-sync-settings",
 	"repository": {
